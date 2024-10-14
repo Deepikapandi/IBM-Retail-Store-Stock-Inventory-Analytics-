@@ -20,7 +20,6 @@
  - <a href="https://github.com/Deepikapandi/IBM-Retail-Store-Stock-Inventory-Analytics-/tree/adb25a63498f6b0b3916ad6cd748a302bdf2929f/Assignment">Assignments</a><br>
  - <a href="https://github.com/Deepikapandi/IBM-Retail-Store-Stock-Inventory-Analytics-/tree/40cfca3bedffde805119cd18b7def4042548eb28/Project%20Design%20Phase%201">Project Design & Planning</a><br>
  <a href=""></a><br>
-
  - <a href="https://github.com/Deepikapandi/IBM-Retail-Store-Stock-Inventory-Analytics-/tree/975beb17c13293a4f6639d980350dbe3d3bc90df/Ideation">Ideation</a><br>
  <a href=""></a><br>
 
