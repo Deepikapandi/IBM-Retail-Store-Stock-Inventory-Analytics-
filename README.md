@@ -19,7 +19,10 @@
  #🔗lINKS
  
  - <a href="https://github.com/Deepikapandi/IBM-Retail-Store-Stock-Inventory-Analytics-/tree/adb25a63498f6b0b3916ad6cd748a302bdf2929f/Assignment">Assignments</a><br>
- - <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/Project%20Design%20%26%20Planning">Project Design & Planning</a><br>
+ - <a href="https://github.com/Deepikapandi/IBM-Retail-Store-Stock-Inventory-Analytics-/tree/40cfca3bedffde805119cd18b7def4042548eb28/Project%20Design%20Phase%201">Project Design & Planning</a><br>
+ <a href=""></a><br>
+
+ - <a href="https://github.com/Deepikapandi/IBM-Retail-Store-Stock-Inventory-Analytics-/tree/40cfca3bedffde805119cd18b7def4042548eb28/Project%20Design%20Phase%201">Project Design & Planning</a><br>
  <a href=""></a><br>
 
 
