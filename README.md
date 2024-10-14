@@ -1,8 +1,7 @@
-![Desktop - 1](https://user-images.githubusercontent.com/72591359/190850103-f85c29b8-016f-45d6-bb5a-e7c8401cb762.jpg)
+
 
 # ®️Retail Store Stock Inventory Analytics
    - TECHNOLOGY : Data Analytics <br>
-   - TEAM ID : PNT2022TMID39737
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
  
@@ -22,7 +21,7 @@
  - <a href="https://github.com/Deepikapandi/IBM-Retail-Store-Stock-Inventory-Analytics-/tree/40cfca3bedffde805119cd18b7def4042548eb28/Project%20Design%20Phase%201">Project Design & Planning</a><br>
  <a href=""></a><br>
 
- - <a href="https://github.com/Deepikapandi/IBM-Retail-Store-Stock-Inventory-Analytics-/tree/40cfca3bedffde805119cd18b7def4042548eb28/Project%20Design%20Phase%201">Project Design & Planning</a><br>
+ - <a href="https://github.com/Deepikapandi/IBM-Retail-Store-Stock-Inventory-Analytics-/tree/975beb17c13293a4f6639d980350dbe3d3bc90df/Ideation">Ideation</a><br>
  <a href=""></a><br>
 
 
